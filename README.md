@@ -7,7 +7,7 @@ This repository contains deliverables for the Hevo Assessment I, demonstrating a
 1. **Snowflake Signup**:
    - Created a free trial account at [snowflake.com](https://www.snowflake.com) on AWS US East.
 2. **Hevo Signup**:
-   - Activated Hevo trial via Snowflake Partner Connect. Team Name: [Your Team Name].
+   - Activated Hevo trial via Snowflake Partner Connect.
 3. **Postgres Setup**:
    - Installed PostgreSQL using Docker (`docker run -d --name postgres-hevo -p 5432:5432 -e POSTGRES_PASSWORD=your_password postgres:latest`).
    - Configured logical replication by setting `wal_level=logical`, `max_replication_slots=4`, and `max_wal_senders=4` in `postgresql.conf`.

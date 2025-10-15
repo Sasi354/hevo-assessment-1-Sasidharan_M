@@ -15,3 +15,4 @@ SELECT email, username
 FROM customers
 WHERE username != COALESCE(SPLIT_PART(email, '@', 1), 'unknown_username')
 LIMIT 10;
+
