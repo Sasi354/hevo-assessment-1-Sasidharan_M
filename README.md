@@ -44,12 +44,12 @@ This repository contains deliverables for the Hevo Assessment I, demonstrating a
 - **Initial Sync Delay**: Waited for Hevo to complete the initial data sync before applying transformations.
 
 ## Hevo Details
-- Name: Sasidharan M
+- Name: Sasidharan_M
 - Pipeline ID: 1
 - Model Number: 2 & 3
 
 ## Loom Video
-[Link to Loom video or instructions to add to Google form]
+https://www.loom.com/share/ba0b0a9d71ba4a2786af43b44b99b0c3?sid=c8efcbee-3b32-402c-8767-40faf01120f8
 
 ## Files
 - `sql/create_tables.sql`: PostgreSQL DDL for table creation.
